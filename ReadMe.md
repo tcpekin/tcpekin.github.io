@@ -1,6 +1,6 @@
 ## T. C. Pekin&rsquo;s website
 
-See [tcpekin.github.io](https://tcpekin@github.io). Based on [kbroman.org](https://kbroman.org)
+See [tcpekin.github.io](https://tcpekin.github.io/). Based on [kbroman.org](https://kbroman.org)
 
 ---
 
