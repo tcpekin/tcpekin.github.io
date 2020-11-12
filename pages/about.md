@@ -4,7 +4,7 @@ title: about
 description: Thomas C. Pekin is Professor in Biostatistics and Medical Informatics at University of Wisconsin - Madison; research in statistical genetics
 ---
 
-I am a a postdoc at the Humboldt Universität zu Berlin, where I am a member of Christoph Koch's [Structure Research and Electron Microscopy](https://www.physics.hu-berlin.de/en/sem) group. I currently work on developing methods for electron microscopy for a variety of materials. Previously, I did my PhD under [Andrew Minor](https://aminor.mse.berkeley.edu/) at UC Berkeley and the National Center for Electron Microscopy, where I focused on method development at the intersection of electron microscopy and structural materials science. 
+I am a postdoc at the Humboldt Universität zu Berlin, where I am a member of Christoph Koch's [Structure Research and Electron Microscopy](https://www.physics.hu-berlin.de/en/sem) group. I currently work on developing methods for electron microscopy for a variety of materials. Previously, I did my PhD under [Andrew Minor](https://aminor.mse.berkeley.edu/) at UC Berkeley and the National Center for Electron Microscopy, where I focused on method development at the intersection of electron microscopy and structural materials science. 
 
 My research focuses on combining _in situ_ electron microscopy methods with high speed 4DSTEM techniques, with the hope of discovering new structure-property relationships that can then be exploited to improve material properties.
 
